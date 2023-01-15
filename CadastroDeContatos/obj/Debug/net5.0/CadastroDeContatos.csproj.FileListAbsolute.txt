@@ -359,3 +359,7 @@ C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\refint\Cadast
 C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\CadastroDeContatos.pdb
 C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\CadastroDeContatos.genruntimeconfig.cache
 C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\ref\CadastroDeContatos.dll
+C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Criar.cshtml.g.cs
+C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Editar.cshtml.g.cs
+C:\Projetos\CadastroDeContatos\CadastroDeContatos\obj\Debug\net5.0\Razor\Views\Contato\ApagarConfirmacao.cshtml.g.cs
